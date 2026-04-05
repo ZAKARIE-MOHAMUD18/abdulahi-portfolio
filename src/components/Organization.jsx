@@ -1,7 +1,6 @@
 import { FaGlobe, FaMapMarkerAlt } from 'react-icons/fa'
 
-// Replace with real organization image when available
-const ORG_IMG = 'src/assets/amal-express.png'
+import ORG_IMG from '../assets/amal-express.png'
 
 export default function Organization() {
   return (

@@ -1,7 +1,6 @@
 import { FaEnvelope, FaPhone } from 'react-icons/fa'
 
-// Replace with real profile image path when available
-const PROFILE_IMG = 'src/assets/abdulahi.png'
+import PROFILE_IMG from '../assets/abdulahi.png'
 
 export default function Hero() {
   return (
